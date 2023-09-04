@@ -1,5 +1,9 @@
 The latest Docker guide can be found here: [GitLab Docker images](https://docs.gitlab.com/ee/install/docker.html).
 
+**Gitlab git repo**
+URL : https://gitlab.com/gitlab-org/omnibus-gitlab.git
+
+
 **Gitlab CE Version Check**
 RELEASE FILE : https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/jammy/gitlab-ce_16.3.0-ce.0_arm64.deb/download.deb
 
